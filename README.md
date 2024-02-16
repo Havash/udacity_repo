@@ -2,6 +2,7 @@
 Udacity lecture on version control
 
 # git commands I often use
+- git clone
 - git status
 - git fetch
 - git pull
