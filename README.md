@@ -8,6 +8,8 @@ Udacity lecture on version control
 - git add
 - git commit -m "<commit_message>"
 - git push
+- git push --force
+- git push --set-upstream origin <branch_name_current_branch_name>
 - git stash
 - git rebase <file_on_top_of_which_commits_on_current_branch_are_to_be_added>
 - git branch <new_branch_name>
